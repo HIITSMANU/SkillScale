@@ -68,6 +68,26 @@ Update Questions:
 ![Screenshot 2024-07-03 205017](https://github.com/HIITSMANU/SkillScale/assets/132491372/ec785d7e-3c02-4fc0-aacb-5be36273cfee)
 Admin Dashboard:
 ![Screenshot 2024-07-03 204724](https://github.com/HIITSMANU/SkillScale/assets/132491372/837cd550-39e8-4a45-a033-829f941d9088)
+![Userflow (1)](https://github.com/HIITSMANU/SkillScale/assets/132491372/056201f2-c76e-4431-87f9-26e80fb2177e)
+
+
+## UserFlow
+
+![Userflow (1)](https://github.com/HIITSMANU/SkillScale/assets/132491372/056201f2-c76e-4431-87f9-26e80fb2177e)
+
+
+## Class Path(Downloaded Jar Files)
+
+![Screenshot 2024-07-03 233619](https://github.com/HIITSMANU/SkillScale/assets/132491372/997c3d4a-3b02-44e7-b464-7a4de7bb5621)
+
+
+## Start the Server
+
+![Screenshot 2024-07-03 232721](https://github.com/HIITSMANU/SkillScale/assets/132491372/1fab3eb6-6946-4f48-814f-ebb5d8d74edc)
+
+
+
+
 
 
 
